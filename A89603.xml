@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A corrector of the ansvverer to the speech out of doores. Iustifying the vvorthy speech of Master Thomas Chaloner a faithfull Member of the Parlement of England.</title>
+            <author>Marten, Henry, 1602-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89603</idno>
+            <idno type="STC">Wing M818</idno>
+            <idno type="STC">Thomason E364_9</idno>
+            <idno type="STC">ESTC R201240</idno>
+            <idno type="EEBO-CITATION">99861771</idno>
+            <idno type="PROQUEST">99861771</idno>
+            <idno type="VID">113916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89603)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113916)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E364[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A corrector of the ansvverer to the speech out of doores. Iustifying the vvorthy speech of Master Thomas Chaloner a faithfull Member of the Parlement of England.</title>
+                  <author>Marten, Henry, 1602-1680.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>As truly printed by Evan Tyler printer to the Kings most excellent Majestie, as were the Scotish papers,</publisher>
+                  <pubPlace>Edinburgh. [i.e. London?] :</pubPlace>
+                  <date>Anno. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Marten by Wing.</note>
+                  <note>The imprint is false; probably printed in London.</note>
+                  <note>A reply to Wing B2960: Birkenhead, Sir John. An answer to a speech without doores.</note>
+                  <note>Annotation on Thomason copy: "Dec [?]"; date is illegible, probably reads December 2 or 3.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chaloner, Thomas, 1595-1661. --  Answer to the Scotch papers --  Early works to 1800.</term>
+               <term>Birkenhead, John, --  Sir, 1616-1679. --  Answer to a speech without doores --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113916:1" rendition="simple:additions"/>
+            <p>A CORRECTOR Of the ANSWERER To the Speech out of Doores.</p>
+            <p>IVSTIFYING THE VVOR<g ref="char:EOLhyphen"/>thy Speech of Maſter <hi>THOMAS CHALONER</hi> a faithfull Member of the Parlement of England.</p>
+            <p>EDINBURGH. <hi>As truly Printed by</hi> Evan Tyler <hi>printer to the Kings moſt excellent Majeſtie, as were the Scotiſh papers. Anno.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113916:2"/>
+            <pb facs="tcp:113916:2"/>
+            <head>A CORRECTOR OF THE ANSWERER TO the ſpeech out of doores.</head>
+            <head type="sub">Iuſtifying the worthy Speech of Mr. <hi>THOMAS CHALONER</hi> a faith<g ref="char:EOLhyphen"/>full Member of the Parlement of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Courtly Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou are much miſtaken: the anſwer you make to your own queſtions doe not ſatisfie; there are indeed <hi>that aske who you are, and what you meane,</hi> and they conclude <hi>you</hi> to be one that was an ear<g ref="char:EOLhyphen"/>witneſſe of that worthy gentlemans ſpeech, elſe, what meanes that parentheſis in the 12. line, of the ſecond page, of <hi>your paper,</hi> and the rather becauſe you ſeem'd <hi>to be bitten by the Dogge that is not worth the whiſling after, and make an out-crie upon't;</hi> but deal as clearely as you can; is it not an ill <hi>Dogge</hi> that is not worth the <hi>whiſling</hi> after? Or is there any but chil<g ref="char:EOLhyphen"/>dren
+<pb n="2" facs="tcp:113916:3"/>mad-men or worſe, that take care for ſuch as byte, deſtroy, doe miſchiefe, or foule the houſe? As for the debate at the Comoedie in <hi>Oxford,</hi> concer<g ref="char:EOLhyphen"/>ning the fitteſt place for the Kings Throne, the de<g ref="char:EOLhyphen"/>termination whereof was ſo difficult, that ſome thought it beſt to erect none at all; <hi>it is a very inſtru<g ref="char:EOLhyphen"/>ctive paſſage, and may teach to purpoſe,</hi> though your gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Maſter</hi> will give you ſmall thanks for declaring thereof <hi>without doores,</hi> if a juſt application be made <hi>thereof,</hi> what thankes you deſerve, you ſhall be ſure of; ſhall you not?</p>
+            <p>You ſay you are one that hath adhered to the Par<g ref="char:EOLhyphen"/>lement all along, (it were well if all alike) from the beginning of the warre;<note n="a" place="margin">quantum mutatis ab illo?</note> what a thouſand pitties, it is your name was forgotten; had you only affixed that to your paper, every man would have recounted the great ſervice you have done: were you a ſhamed of your name? or were you not? You know it is not faire to anſwer a thing that hath a name, without a name.</p>
+            <p>You ſay you have ſerved the Parliament faith<g ref="char:EOLhyphen"/>fully in their loweſt condition; twas pitty you had not goodneſſe ſufficient to hold out to the end; but it ſeemes you did (as ſome others) about the time of <hi>Branfords</hi>-Skirmiſh, diſ-reliſh the exigent; &amp; though you fac't not quite about to <hi>Oxford,</hi> yet you fac't to <hi>Kingſton,</hi> &amp; have look't on ever ſince, and ſometime have caſt an eye as far as <hi>
+                  <g ref="char:V">Ʋ</g>xbridge,</hi> have you not?</p>
+            <p>Nay, you are a Champion for the Parliament, <hi>Reſolving to be ſtill for them in that which is juſt &amp; right, againſt any Perſon or Nation in the World:</hi>
+               <note n="*" place="margin">Latet an<g ref="char:EOLhyphen"/>guis in herba</note> By any meanes make your name publick, there may be uſes for you that you cannot imagine; but ſtay a little, may
+<pb n="3" facs="tcp:113916:3"/>you not carry two faces under one hood? Who doe you intend ſhall be judge of what is <hi>right</hi> &amp; <hi>juſt</hi> in this your reſolution? Beleeve it, by your writing; good men feare, that either your underſtanding is very er<g ref="char:EOLhyphen"/>ronious, or your conſcience very dead or corrupt and then, if you will be judge your ſelfe; the Parlia<g ref="char:EOLhyphen"/>ment were better to be without your ſervice &amp; reſo<g ref="char:EOLhyphen"/>lution; and indeed for all your boaſting, 'tis thought you have been and are but a back-friend, that you row one way and looke another; which in plain En<g ref="char:EOLhyphen"/>gliſh (if not in Scotch) is to play the diſembling hy<g ref="char:EOLhyphen"/>pocrite, is it not?</p>
+            <p>You mightily over value your own art and <hi>Sophi<g ref="char:EOLhyphen"/>ſtry,</hi> and as much under value the judgements of o<g ref="char:EOLhyphen"/>thers; if you imagine your deluſion is not eſpied by every common capacity: you write not in defence of the Scotch papers but of the honour of the Parle<g ref="char:EOLhyphen"/>ment: Oh that <hi>Englands</hi> Parlement were adviſed of <hi>Joabs</hi> treachery, who while he ſaith <hi>art thou in health my Brother,</hi> and ſalutes it with a pretended <hi>Kiſſe, ſheds out the very bowells of it on the ground.</hi> 2 Samuel 20, 10. <hi>either be what thou ſeemeſt, or ſeeme what thou art;</hi> this ſneaking in the <hi>head</hi> and byting by the <hi>heele,</hi> manifeſts a Serpent, and that the poyſon of aſpes is under your tongue: if there were no more; this large <hi>Machivilian</hi> preface of yours (if well weighed) would ſufficiently declare.</p>
+            <p>
+               <hi>You preſume not to examine or at all to intermeddle with any thing ſpoken within thoſe wals; is that true?</hi> But how comes that paſſage <hi>without doors</hi> to eſcape your examen, which is placed immediatly before the Argument page the third, of Mr. <hi>Chaloners</hi> Speech;
+<pb n="4" facs="tcp:113916:4"/>can you give an account of your ſilence therein? your deſcanting upon the other parts of the ſpeech, and paſſing over that paſſage in ſilence, gives juſt ground to think that your moſt politick obſervation could not reach to defend your checks from collu<g ref="char:EOLhyphen"/>ſion, and eminent receding from their Covenant therein.</p>
+            <p>If you write not in defence of the Scotch pa<g ref="char:EOLhyphen"/>pers; what meanes then your ſtrong conceited ſyllo<g ref="char:EOLhyphen"/>giſme? If your juggling be not palpable to your ſelfe, you have indeed loſt your judgement; but it's rather to be feared you have ſold both judgement and con<g ref="char:EOLhyphen"/>ſcience for worldly reſpects.</p>
+            <p>You cannot but know, what may be, and what hath been ſaid and maintained too, of contrivances and contracts, conducing to the Kings addreſſe to the Scots, ſo much is avoucht, beleeved, and com<g ref="char:EOLhyphen"/>mo<g ref="char:cmbAbbrStroke">̄</g>ly diſcourſt of, as diſſolves the knot in your argu<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t, the Covenant it ſelf being firſt cut in the midſt with a dudgion dagger, whether the Engliſh would or no: aſſure your ſelfe, the foundation of your ſyl<g ref="char:EOLhyphen"/>logiſme ought to have been the Kings voluntary un<g ref="char:EOLhyphen"/>invited, uncontracted going to the Scots: If you will have it of any force with the People, for moſt men doe confidently beleeve, there was all the parts of a reall bargaine in the buſineſſe, and muſt have more then the Scots word, or the <hi>Embaſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dors faith,</hi> or the Kings Oath to prove the contrary, and then what becomes of the weight you lay upon the Covenant, Treaty, or Law of the Nation<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>But admitly our ſyllogiſme held good in all parts, and that the King were his owne man a midſt the
+<pb n="5" facs="tcp:113916:4"/>Scots, what's the iſſue? why then ſay you His perſon is not to be diſpoſed of but by joynt conſent of both Nations? Well; be it ſo, nevertheleſſe both Nations are bound to agree in what is juſt; <note n="*" place="margin">Duramen<g ref="char:EOLhyphen"/>tum non eſt vinculum iniquitatis</note> neither Covenant nor Treaty, nor Law of Nations, can bind in any thing that in it ſelfe is evill and ſinfull; concerning the Kings perſon then; ſhould both Nations conſi<g ref="char:EOLhyphen"/>der what in juſtice is to be done? In the firſt place, would they not conſider <hi>what the King had done both before the Warre and ſince the Warre?</hi> Would they not conſider what the proper difference is <hi>between a King and a Tyrant,</hi> and finding the latter caracter up<g ref="char:EOLhyphen"/>on him, how then ought they to diſpoſe of his Per<g ref="char:EOLhyphen"/>ſon? What puniſhment would appeare ſufficient for Himſelfe? What would become of his poſterity, <hi>Juſtice</hi> impartially being agreed upon by both Na<g ref="char:EOLhyphen"/>tions? And if they ſhould not propoſe <hi>juſtice</hi> as their end in this His caſe, that hath ſo generall an influence upon all Nations, they ſhall certainly periſh.</p>
+            <p>Shall a poore indigent wretched, inconſiderate man ſuffer death &amp; forfeit the wel-being of his poſterity, for a particular offence, againſt a particular Law? and ſhall He and His eſcape <hi>ſcot-free</hi> that for ſixteene yeares without intermiſſion <hi>brake the Law, turned the government up-ſide downe, Null'd Parlements,</hi> and when craft and cruelty would not ſuffice, <hi>rais'd a moſt unna<g ref="char:EOLhyphen"/>turall Warre againſt this Parliament, intermixing the moſt devilliſh plots that ever were to deſtroy both Parle<g ref="char:EOLhyphen"/>ment and City, murthering and deſtroying the moſt Religious and peaceable People in all places</hi> and never by all <hi>intreaties, Treatyes, Covenants</hi> [<hi>and indulgence</hi> in all theſe] could be drawne to give over his vio<g ref="char:EOLhyphen"/>lent
+<pb n="6" facs="tcp:113916:5"/>and inhumane courſes, till neceſſity enforc'd, and then by a moſt <hi>unparaleld contrivance</hi> to intangle this Nation more then ever? What can the true ſer<g ref="char:EOLhyphen"/>vants of the moſt juſt God ſay unto ſuch a <hi>Perſon,</hi> but <hi>as thy ſword hath made ſo many thouſand thouſands of women childleſſe, ſo ſhal thy Mother be childleſſe amongſt women?</hi>
+            </p>
+            <p>That our records might inſtruct poſterity, with ſuch a memento as this, <hi>and Samuel hewed Agag in peeces before the Lord in Gilgal:</hi> Your toy's of <hi>evill Councell, and the King can doe no wrong,</hi> would not ſerve <hi>Agags</hi> turne, nor <hi>Adonibezeck,</hi> nor the five Kings that <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> hung up: who all might have pleaded <hi>evill Coun<g ref="char:EOLhyphen"/>cell and the like;</hi> but before juſt Judges ſuch things are vanities, for they know God will not ſo be mock<g ref="char:EOLhyphen"/>ed. And if both Nations doe juſtly; thus they ought to diſpoſe of this Kings Perſon; and then there is an end of this controverſy.</p>
+            <p>That our <hi>Engliſh</hi> Parlement inclines to ſuch a <hi>diſpoſition,</hi> appeares by voting of his Perſon to <hi>War<g ref="char:EOLhyphen"/>wick Caſtle;</hi> but the <hi>Scots</hi> agree not to this vote; but fal to an evident Treaty on His behalfe, and not only for his immunity (which with what conſcience they can doe their <hi>death-beads</hi> will tell them, and the blood of the ſlaine) but for a neceſſity of reſtoring Him to his greatneſſe and honour; to juſtifie which their doings; <hi>their and our Covenant</hi> with the moſt juſt God, is by them inſiſted on; to compell us to the ſame injuſtice, if this be not the higheſt mockery that ever was offe<g ref="char:EOLhyphen"/>red unto God: what is? Yet this is that you glory to maintaine in them: accounting of all the miſeries of this Nation, but as a hunting match or horſe-race:
+<pb n="7" facs="tcp:113916:5"/>But you and they, and their King <hi>whom they now <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>alke with all;</hi> will one day find that <hi>wilfull murthers</hi> muſt have another reckning; maugre <hi>all King craft, Clergy-craft, and Court-craft</hi> in the world.</p>
+            <p>But if it were agreed, they had a joynt and equall intereſt in the Perſon of the King: and that they ſhould differ about diſpoſing of him: the Parliament of <hi>England</hi> juſtly reſolving to <hi>puniſh him,</hi> and the Par<g ref="char:EOLhyphen"/>liament of <hi>Scotland</hi> reſolving to <hi>reſtore him to his ho<g ref="char:EOLhyphen"/>nour and Authority:</hi> admit the Parliament of <hi>England</hi> ſhould underſtand that they were no waies bound to preſerve his Perſon, further then they found his Perſon in the defence of the true Proteſtant Religi<g ref="char:EOLhyphen"/>on, the liberties of the People, and privilige of Par<g ref="char:EOLhyphen"/>liament, as the Covenant doth manifeſtly imply (and could be juſtly taken in no other ſenſe) but if they found him in the oppoſition of all thoſe, and in the violent proſecution of all kind of tyrany, oppreſſion and cruelty, are they not plainly bound by the ſame Covenant to bring him to condigne puniſhment, as the chiefe of all delinquents? can the death of <hi>Stra<g ref="char:EOLhyphen"/>ford, Canterbury</hi> or any of the reſt be juſtified, if he eſcape that ſet them on worke, and hath infinitly tranſcended them in Treaſons againſt the Common-wealth?</p>
+            <p>If the Parliament of <hi>Scotland</hi> ſhould perſiſt in their interpretation of the Covenant, that they un<g ref="char:EOLhyphen"/>derſtood the preſervation of the Kings Perſon, His Authority and power to be alwaies conſiſtent with the preſervation of Religion and the liberties of the People; it will appeare an inforced conſtruction, be<g ref="char:EOLhyphen"/>cauſe ſinfull: did you lift up your hand to the moſt-high
+<pb n="8" facs="tcp:113916:6"/>God to bring delinquents to condigne puniſh<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>? &amp; can you keep your Covena<g ref="char:cmbAbbrStroke">̄</g>t if he eſcape ſcot-free, who in point of all this blood &amp; cruelty was <hi>ami<g ref="char:EOLhyphen"/>nenter cauſa ſine qua non:</hi> it could not be juſt to defend His Perſon in the oppoſition and deſtruction of true Religion, and the liberties of the People, but to de<g ref="char:EOLhyphen"/>ſtroy Him as any other, nay as the King and the chiefe Captaine of the deſtroyers, and this the Peo<g ref="char:EOLhyphen"/>ple takle of freely one with other, and the contrary being but the fruit of art and ſophiſtry, ſerveth to no other purpoſe, but to exaſperate them againſt who<g ref="char:EOLhyphen"/>ſoever uſeth thoſe deluſions, abhominating that the lives of ſo many precious men, and the ruine of ſo many honeſt families ſhould be ſet at ſo cheap a rate: the manifold ſorrowes of their hearts, and their be<g ref="char:EOLhyphen"/>ing often deceived, hath opened their underſtandings that they now ſee plainly through all thoſe foldings and doublings; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are but hated that uſe them.</p>
+            <p>But to the point; admit the two Parliaments ſhould thus differ, what then becomes of your much laboured ſyllogiſme? You ſee the diſpute is begun already: Sir, can you reſolve who ſhall be judge of this controvercy? if you can propoſe none: as cer<g ref="char:EOLhyphen"/>tainly you cannot, what then? muſt <hi>Scotl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds</hi> reſolu<g ref="char:EOLhyphen"/>tion be a Law too <hi>England?</hi> Your face indeed; looks ſome what that way, and ſo doe the Scotch-pepers too, but why ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if the negative voice ſo much plea<g ref="char:EOLhyphen"/>ded for by the friends of prerogative, ſhall now be re-aſſum'd by the Scots, in this diſpute, it will render the Parliament more incapable of preſerving the Kingdome now then ever, and while you pretend to avoid perjury, you would enforce the Parliament upon an inevitable ſlavery.</p>
+            <p>
+               <pb n="9" facs="tcp:113916:6"/>If <hi>England</hi> and <hi>Scotland</hi> be truly meaſured, <hi>England</hi> is by far the greater and much more popu<g ref="char:EOLhyphen"/>lous: and in all ſocieties the Major part is concluſive, or they can never come to any determination: and then <hi>Englands</hi> reſolution in this cauſe, ought rather to conclude <hi>Scotland:</hi> if <hi>Scotland</hi> thinkes this not reaſonable; what then? muſt there be a ſtrife about the <hi>Perſon;</hi> why then ſtrove they not who ſhall be moſt forward to bring him to juſtice?<note n="a" place="margin">fiat juſtiti<g ref="char:EOLhyphen"/>am &amp; ruan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> coeli.</note> Why is there ſuch a coyle about his honour and power, that hath ſought the ruine of all?</p>
+            <p>Sir, what ſay you to that ſaying in the ſpeech, page the 13, the King haveing put himſelfe frely into their hands, they cannot with honour deliver him (well, let them warme the Snake as long as <hi>England</hi> did, and they may hap to be yet as wel requited) but what man that hath the uſe of reaſon, beleeves the King caſt himſelfe freely upon them but upon preaſſu<g ref="char:EOLhyphen"/>rance of protection; therefore talke not any longer of honour, it is but a meere trick, and it is diſcovered to their ſhame; 'tis not denied but they may have great uſe of him in many reſpects, to make advantages up<g ref="char:EOLhyphen"/>on this Nation: but they are <hi>unjuſt,</hi> and will never proſper, when they have done all they can, they'le find many of thoſe they thinke they have ſufficiently deluded &amp; perverted, that yet wil never be alienated from our <hi>Engliſh</hi> Parliament, nor be wanting to make good their Votes and reſolutions, and alſo their in<g ref="char:EOLhyphen"/>terpretations.</p>
+            <p>There are no great <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>er of your perfidious temper that employ your <hi>Engliſh</hi> parts and abilities, to plead for deceit &amp; Tyrany, &amp; baſely to inthrall your native
+<pb n="10" facs="tcp:113916:7"/>Country; what hath provoked you to ſo great a wic<g ref="char:EOLhyphen"/>kedneſſe: or are you by ſome notorious practices become ſo obnoxious, that you cannot thinke your ſelfe ſafe if juſtice be proſecuted impartially: Doe you fear it will at laſt arrive at you? it can be no o<g ref="char:EOLhyphen"/>ther, if ſo, yet be adviſed, repent, and make amends, adde not evill to evill, leſt to eſcape the <hi>Pan</hi> you leap into the <hi>Fire:</hi> with the juſt you may find mercy, hap<g ref="char:EOLhyphen"/>pily your evill is over and paſt hurting, and will ne<g ref="char:EOLhyphen"/>ver be remembred: if you caſt your ſelfe on ſtrangers they know wherefore you doe it; and when you have dontheir worke, wil caſt you off, loving the work but abhominating the inſtrument: beſides, your labour falls upon a knowing People, and makes no impreſſi<g ref="char:EOLhyphen"/>on: when judicious men read your inference upon the Covenant, defending therein the affirmations in the <hi>Scots</hi> papers touching the Kings Perſon and after read over that breife paſſage of M. <hi>Chaloners</hi> ſpeech: all that you have ſaid comes to nothing, and you and your Maſter are great looſers, ſo unadviſedly occa<g ref="char:EOLhyphen"/>ſioning the receiving of that worthy and effectuall paſſage. which in due thankfulneſſe to that faithfull judicious and true lover of his Country, ſhall be here recited word for word; deſerving indeed to be in<g ref="char:EOLhyphen"/>graven in <hi>Marble,</hi> and to remaine in the Commons Houſe to all poſterity.</p>
+            <p>
+               <hi>They ſay</hi> ſaith he; meaning the Scots papers) <hi>that by vertue of the Covenant they are obliged to defend his Perſon and Authority. What his Authority is in Scotland themſelves beſt know; but you only are to judge of is in</hi> England, <hi>ſince being not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to thy power on
+<pb n="11" facs="tcp:113916:7"/>Earth, there is no power under Heaven can judge you. The Covenant ties you to maintaine in the firſt place the Rights of Parliament, and the liberties of the Kingdome; and in the ſecond place the Kings Perſon and Authority; and that only in defence of the former, and not otherwiſe. And whereas they expect the King ſhould be received by you with honour ſafety, and freedome, I beſeech you Sir, conſider whether (as the caſe now ſtands) his Recep<g ref="char:EOLhyphen"/>tion with Honour can ſtand with the Honour of the King<g ref="char:EOLhyphen"/>dome, whether his ſafety be not incompatible with the ſafety of the Common wealth, and whether his freedome be not inconſiſtant with the freedome of the People.</hi>
+            </p>
+            <p>
+               <hi>I pray (Sir) take heed leſt that bringing him in with Honour you doe not diſhonour your ſelfe, and queſtion the very juſtice of all your Actions; be wray that in receiving him with ſafety you doe not thereby endanger and hazard the Common-wealth, be adviſed, leſt in bringing him home with freedome, you doe not thereby lead the people of</hi> England <hi>in thraldome,</hi>
+            </p>
+            <p>
+               <hi>I pray (Sir) firſt ſettle the honour, ſafety and free<g ref="char:EOLhyphen"/>dome of the Common-wealth, and then the honour, ſafety, and freedome of the King, ſo far as the latter may ſtand with the former, and no otherwiſe.</hi>
+            </p>
+            <p>
+               <hi>Wherfore I ſhall conclude with my humble deſire that you would adheare to your former Vote, that is, that the King be diſpoſed of as both Houſes of Parliament ſhall thinke fitting; and that you enter into no Treaty neither with the King or your Brethren of</hi> Scotland, <hi>leſt other<g ref="char:EOLhyphen"/>wiſe thereby you retard the going home of their Army out of England.</hi>
+            </p>
+            <p>Sir, by what you have written, it will appeare what your meaning is, you doe but flatter your ſelfe
+<pb n="12" facs="tcp:113916:8"/>your Conſcience, wil be too ſtrong for you, and con<g ref="char:EOLhyphen"/>demne you whereſoever you are, it will aflict you in your private, and diſtract you in your publick occa<g ref="char:EOLhyphen"/>ſions, in the end death comes, and what will be the fruit of thoſe things whereof you will be then a<g ref="char:EOLhyphen"/>ſhamed, when Mr. <hi>Chaloner</hi> that true friend to the people ſhall have peace in the cleere diſcharge of his truſt, and be for ever beloved af all good men; both in Parliament and Common-wealth.</p>
+            <p>You are juſtly attended with the common unhap<g ref="char:EOLhyphen"/>pineſſe of hypocrites, which is to over act, and there<g ref="char:EOLhyphen"/>by to diſcover themſelves moſt, when they intend moſt to hide themſelves: ſo fareth it with you in the beginning progreſſe and end of your diſcourſe: be<g ref="char:EOLhyphen"/>ing <hi>profeſſedly for the honour of the Parliament,</hi> when nothing was ever written more manifeſtly <hi>to the diſ<g ref="char:EOLhyphen"/>honour thereof,</hi> yet that in the cloſe of all you might be thought to be a friend, you ſing this ſong to the tune of the old Letany, <hi>from the plots both of ſectaries and Malignants good Lord deliver us.</hi>
+            </p>
+            <p>But Sir, are you ſure you are no Sectary? It is much to be feared you are, then is riſen up of late a ſect called the <hi>Scotch paper ſect,</hi> a very dangerous ſect, a ſect that hath plots and deſign, and tricks and con<g ref="char:EOLhyphen"/>trivances, are not you a principall member of this new ſect? It is moſt evident you are, it is not ſuppo<g ref="char:EOLhyphen"/>ſed you are zealouſly of any other ſect or Religion what ever you profeſſe, your papers acquit you from all ſuſpition thereof: for moſt of th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that are called ſectaries, are true lovers of Englands intereſt, and have a care to admit none but honeſt men into their fellowſhips, and their plots are to preſerve with
+<pb n="13" facs="tcp:113916:8"/>their lives and eſtates, thoſe juſt liberties of this Nation, and priviledges of Parliament: whereof you and ſuch as you are, are making <hi>an uncleanly convey<g ref="char:EOLhyphen"/>ance,</hi> and felling for ſome vile and unworthy reſ<g ref="char:EOLhyphen"/>pects, and bleſſ: your ſelves from <hi>thoſe plots</hi> of ſectaries.</p>
+            <p>But why, ſhame you to be thought a Malignant, you know and it is evident you are one: and it is pretty well in faſhion, and if you would openly profeſſe it, it would grow in favour: 'tis nothing but your ta<g ref="char:EOLhyphen"/>king and pleading for the Covenant that diſtinguiſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you; and that's now a dayes as much as nothing; what is it, ſo long as you are your own in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rpre<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> beſides, you ſee it is the moſt likely to bring in the King your head, come, it had been ill for you and He and all the Malignants in England, if it had not been for the Covenant, and therefore preſſe it all you can, that it may upon penalty be taken by all men throughout the Nation: for certainly all the Malig<g ref="char:EOLhyphen"/>nants will take it and then they ſhall no longer be cal<g ref="char:EOLhyphen"/>led malignants, but Covenanters, and if any ſcruple it, it will be thoſe ſectaries that have ſubdued the King your Maſter and all his forces, (except before excepted) and let thoſe be called malignants: and then if it were not for this Parliament, yee Covenan<g ref="char:EOLhyphen"/>ters would have a merry world once againe: and might take another courſe to anſwer ſuch ſpeeches as Mr. <hi>Chaloners:</hi> you remember what was done in the third yeare of this King: thoſe were brave cour<g ref="char:EOLhyphen"/>ſes, and you long to ſee them againe, doe you not? Indeed you have cauſe, for if Gentlemen of his abi<g ref="char:EOLhyphen"/>lity in the Houſe (as God be bleſſed there are very
+<pb n="14" facs="tcp:113916:9"/>many) doe but put forth their parts hence forward as he hath done, all your art and ſophiſtry will compas nothing but your own ſhame and ruine which is the Juſt reward of your Treachery, and moſt perfidious breach of the truſt you have undertaken.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
